@@ -1,0 +1,26 @@
+{
+  "image_path": "dagou.png",
+  "sound_path": "dagoujiao.MP3",
+  "threshold_seconds": 5,
+  "target_processes": [
+    "chrome.exe"
+  ],
+  "target_title_keywords": [
+    "哔哩哔哩",
+    "YouTube",
+    "GitHub"
+  ],
+  "check_foreground_only": true,
+  "check_interval_ms": 1000,
+  "image_width": 300,
+  "image_height": 300,
+  "position_preset": "center",
+  "custom_x": 0,
+  "custom_y": 0,
+  "mouse_penetration": false,
+  "darken_screen": true,
+  "darken_opacity": 50,
+  "fullscreen": true,
+  "fade_in_ms": 500,
+  "display_duration_ms": 3000
+}
